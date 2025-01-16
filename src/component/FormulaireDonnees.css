@@ -1,0 +1,8 @@
+.custom {
+    padding: 32px; /* Ajoute un padding plus grand */
+    background-color: #e5e7eb; /* Gris clair (équivalent à bg-gray-200) */
+    max-width: 768px; /* Largeur maximale (par exemple, 768px) */
+    margin: 0 auto; /* Centre le div horizontalement */
+    border-radius: 8px; /* Coins arrondis (équivalent à rounded-lg) */
+  }
+  
